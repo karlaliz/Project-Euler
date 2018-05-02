@@ -9,5 +9,4 @@ def isPrimeFactor(n):
 		else:
 			i = i + 1
 isPrimeFactor(600851475143)
-print factors
 print (int(max(factors)))
